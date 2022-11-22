@@ -1,0 +1,36 @@
+body {
+    margin:  0;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    /* в margin 2 значения 1 отступ сверху и снизу а 2ой слева и справа */
+    /* авто означает что отступы автоматически загоняют этот блок в центр */
+}
+header {
+    background: pink;
+}
+.main-menu {
+    background:  gold;
+}
+.main-menu-list{
+    list-style: none;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+section {
+    background: green;
+    padding:  5px 5px;
+}
+.section-item {
+    background: darkmagenta;
+    margin: 5px;
+}
+.sidebar-right {
+    background: rebeccapurple;
+}
+footer {
+    background: rgb(123, 123, 123);
+}
